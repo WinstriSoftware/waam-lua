@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Winstri Advanced Admin Mod"
+	"version"			"0.01"
+	"author_name"			"Winstri Software"
+	"author_email"			"contact@software.winstri.com"
+	"author_url"			""
+	"info"				"An Advanced Admin Mod for Garry's Mod"
+	"override"			"0"
+}
