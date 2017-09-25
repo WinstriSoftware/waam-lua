@@ -1,1 +1,1 @@
-include ("waam_config/waam_*.lua")
+include("waam_config/waam_*.lua")
