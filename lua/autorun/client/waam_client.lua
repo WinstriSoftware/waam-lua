@@ -1,0 +1,1 @@
+include ("waam_config/waam_*.lua")
